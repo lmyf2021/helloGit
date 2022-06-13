@@ -7,6 +7,6 @@ public class Hello {
 
 
     public void VcTest() {
-        System.out.println("Version1.1");
+        System.out.println("Version1.2");
     }
 }
