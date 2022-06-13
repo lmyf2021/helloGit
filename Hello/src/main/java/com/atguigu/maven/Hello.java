@@ -9,4 +9,8 @@ public class Hello {
     public void VcTest() {
         System.out.println("Version1.3");
     }
+
+    public void VcDiv() {
+        System.out.println("分支1");
+    }
 }
